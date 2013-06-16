@@ -2,7 +2,7 @@ helloworld-cocos2d
 ==================
 
 Cocos2d-x Helloworld app for windows RT
-
+=======================================
 
 http://www.cocos2d-x.org/boards/6/topics/29754
 
