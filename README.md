@@ -1,5 +1,3 @@
-helloworld-cocos2d
-==================
 
 Cocos2d-x Helloworld app for windows RT
 =======================================
